@@ -1,4 +1,11 @@
+# Virtual Environments
+.venv
 venv/
+
+# Caches
 __pycache__/
 *.__pyc
 .ipynb_checkpoints
+
+# OS Specific
+.DS_Store
